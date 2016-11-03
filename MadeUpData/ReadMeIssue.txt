@@ -1,0 +1,5 @@
+Somehow I listed only 2 copies of each book for each branch of the library system.  However, when I created the loan file, somehow some branches got 3 copies of each book.   
+
+It may also be the case that a single book title could be checked out 3 times - where no more than 2 of these instances overlap.  That is: two instances could be identical (thus, both copies of the book are checked out) but another instance of check out could have happened for one of these copies in the past.  So, the fact that a book title was checked out 3 times would not violate the rule that there are only two copies per title in each library branch.
+
+At any rate, because this data is all phony and this issue did not relate to the actual purpose of the exercise, I didn't pursue this problem any further here. Making this note in case I need to go back to this potential problem for some reason. 

@@ -1,0 +1,20 @@
+1,Bob Jones
+2,Stephen King
+3,Marcel Proust
+4,Leopold Bloom
+5,Miguel de Cervantes
+6,Herman Melville
+7,William Shakespeare
+8,Leo Tolstoy
+9,Homer Simpson
+10,F. Scott Fitzgerald
+11,Dante Alighieri
+12,Gustave Flaubert
+13,Fyodor Dostoyevsky
+14,Gabriel Garcia Marquez
+15,Mark Twain
+16,Lisa Simpson
+17,Vladimir Nabokov
+18,Fannie Mae Pearl
+19,Billy Jo Smith
+20,Lewis Carroll
